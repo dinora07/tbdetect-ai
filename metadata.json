@@ -1,0 +1,6 @@
+{
+  "name": "TBDetect AI",
+  "description": "AI-powered tuberculosis early-screening, multimodal diagnostics, and continuous patient-monitoring clinical platform.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
